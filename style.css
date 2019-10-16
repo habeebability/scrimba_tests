@@ -1,0 +1,28 @@
+.green-header {
+    color: darkgreen;
+    font-size: 45px;
+}
+.green-subhead {
+    font-size: 35px;
+}
+.green-header, .green-subhead {
+    font-family: Georgia;
+    text-align: center;
+}
+p {
+    line-height: 25px;
+    font-size: 20px;
+}
+a {
+    text-decoration: none;
+}
+.upper-p {
+    text-transform: uppercase;
+}
+a:hover {
+    text-decoration: underline;
+}
+.left-image {
+    float: left;
+    padding: 15px;
+}
